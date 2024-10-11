@@ -1,4 +1,4 @@
 # Fake-News-Detection
-Detecting Fake News: A Machine Learning Approach Using the ISOT Dataset
+Identifying False News using Machine Learning with the ISOT Dataset
 
 
