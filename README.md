@@ -21,5 +21,7 @@ The dataset contains:
 * Performance Metrics: Accuracy, Precision, Recall, and F1-score are used to evaluate each model.
 ## Results
 The table below summarizes the performance of the models:
+![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
+
 
 
