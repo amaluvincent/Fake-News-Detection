@@ -28,7 +28,7 @@ The barplot below summarizes the performance of the models:
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
 ## Key Files
 * data_preprocessing.py: Script for cleaning and tokenizing the text data.
-* model_training.py: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
+* Fake_news_detection_NLP_approach_V7.ipynb: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
 * lstm_model.py: Implementation of the LSTM neural network.
 * evaluation.py: Generates performance metrics for the models.
 * run_pipeline.py: End-to-end script to preprocess the data, train models, and evaluate performance.
