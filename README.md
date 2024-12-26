@@ -1,5 +1,9 @@
 # Fake-News-Detection Using Machine Learning- An NLP Approach
-This project implements fake news detection using machine learning and deep learning models. The dataset used is the ISOT Fake News Dataset, which contains labeled news articles categorized as "True" (0) or "Fake" (1). The goal is to accurately classify news articles and evaluate model performance using standard metrics.
+This project implements fake news detection using machine learning and deep learning models. 
+
+![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/intro%20image.jpg?raw=true)
+
+The dataset used is the ISOT Fake News Dataset, which contains labeled news articles categorized as "True" (0) or "Fake" (1). The goal is to accurately classify news articles and evaluate model performance using standard metrics.
 ## Dataset
 The ISOT Fake News Dataset, curated by Dr. Ahmed H. Ahmed at the University of Victoria, consists of two types of news articles:
 
@@ -20,8 +24,35 @@ The dataset contains:
   4. Long Short-Term Memory (LSTM) Neural Network
 * Performance Metrics: Accuracy, Precision, Recall, and F1-score are used to evaluate each model.
 ## Results
-The table below summarizes the performance of the models:
+The barplot below summarizes the performance of the models:
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
+## Key Files
+* data_preprocessing.py: Script for cleaning and tokenizing the text data.
+* model_training.py: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
+* lstm_model.py: Implementation of the LSTM neural network.
+* evaluation.py: Generates performance metrics for the models.
+* run_pipeline.py: End-to-end script to preprocess the data, train models, and evaluate performance.
+## Dependencies
+* Python 3.8 or later
+* Libraries:
+     * numpy
+     * pandas
+     * scikit-learn
+     * nltk
+     * tensorflow (for LSTM)
+## Installation
+* Clone the repository:
+git clone https://github.com/your-repo/fake-news-detection.git
+cd fake-news-detection
+
+* Install required dependencies:
+pip install -r requirements.txt
+## Future Work
+* Experiment with additional deep learning architectures, such as Transformers.
+* Use more advanced text embeddings, such as BERT or Word2Vec.
+* Explore additional feature engineering techniques.
+## Author
+Amalu Vincent
 
 
 
