@@ -30,7 +30,7 @@ The barplot below summarizes the performance of the models:
 * data_pre_processing_v2.ipynb: Script for cleaning and tokenizing the text data.
 * Fake_news_detection_NLP_approach_V7.ipynb: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
 * Fake_news_detection_NLP_approach_V8.ipynb: Implementation of the LSTM neural network.
-* run_pipeline.py: End-to-end script to preprocess the data, train models, and evaluate performance.
+* Fake_news_detection_NLP_approach_V10.ipynb: End-to-end script to preprocess the data, train models, and evaluate performance.
 ## Dependencies
 * Python 3.8 or later
 * Libraries:
@@ -40,10 +40,6 @@ The barplot below summarizes the performance of the models:
      * nltk
      * tensorflow (for LSTM)
 ## Installation
-* Clone the repository:
-git clone https://github.com/your-repo/fake-news-detection.git
-cd fake-news-detection
-
 * Install required dependencies:
 pip install -r requirements.txt
 ## Future Work
