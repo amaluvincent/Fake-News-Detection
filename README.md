@@ -40,10 +40,10 @@ The barplot below summarizes the performance of the models:
      * nltk
      * tensorflow (for LSTM)
 ## Installation
-* Install required dependencies:
-pip install -r requirements.txt
-pip install pandas numpy matplotlib seaborn scikit-learn nltk
-pip install tensorflow keras
+Install required dependencies:
+* pip install -r requirements.txt
+* pip install pandas numpy matplotlib seaborn scikit-learn nltk
+* pip install tensorflow keras
 
 ## Future Work
 * Experiment with additional deep learning architectures, such as Transformers.
