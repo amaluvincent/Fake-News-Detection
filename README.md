@@ -30,7 +30,7 @@ The barplot below summarizes the performance of the models:
 * data_pre_processing_v2.ipynb: Script for cleaning and tokenizing the text data.
 * Fake_news_detection_NLP_approach_V7.ipynb: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
 * Fake_news_detection_NLP_approach_V8.ipynb: Implementation of the LSTM neural network.
-* Fake_news_detection_NLP_approach_V10.ipynb: End-to-end script to preprocess the data, train models, and evaluate performance.
+* FINAL_CODE.ipynb: End-to-end script to preprocess the data, train models, and evaluate performance.
 ## Dependencies
 * Python 3.8 or later
 * Libraries:
@@ -42,6 +42,9 @@ The barplot below summarizes the performance of the models:
 ## Installation
 * Install required dependencies:
 pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn nltk
+pip install tensorflow keras
+
 ## Future Work
 * Experiment with additional deep learning architectures, such as Transformers.
 * Use more advanced text embeddings, such as BERT or Word2Vec.
