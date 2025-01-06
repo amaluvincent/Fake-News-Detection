@@ -30,6 +30,10 @@ The dataset contains:
 Out of all these models Logitic regression and LSTM is the best. 
 The barplot below summarizes the performance of the models:
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
+
+![image alt](Screenshot 2025-01-06 082650.png)
+
+
 ## Key Files
 * data_pre_processing_v2.ipynb: Script for cleaning and tokenizing the text data.
 * Fake_news_detection_NLP_approach_V7.ipynb: Contains the implementation of Logistic Regression, Random Forest, and Naive Bayes.
