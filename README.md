@@ -24,6 +24,7 @@ The dataset contains:
   4. Long Short-Term Memory (LSTM) Neural Network
 * Performance Metrics: Accuracy, Precision, Recall, and F1-score are used to evaluate each model.
 ## Results
+Out of all these models Logitic regression and LSTM is the best. 
 The barplot below summarizes the performance of the models:
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
 ## Key Files
