@@ -30,8 +30,8 @@ The dataset contains:
 Out of all these models Logitic regression and LSTM is the best. 
 The barplot below summarizes the performance of the models:
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/result%20comparison.png?raw=true)
+![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/42e568ddb96d11fc472012c4b59e9bff9f3c2e23/Screenshot%202025-01-06%20082650.png)
 
-![image alt](Screenshot 2025-01-06 082650.png)
 
 
 ## Key Files
