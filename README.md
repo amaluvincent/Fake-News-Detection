@@ -1,4 +1,6 @@
 # Fake-News-Detection Using Machine Learning- An NLP Approach
+## Research Question
+“How can machine learning techniques be used to accurately classify news articles as real or fake based on textual features?”
 This project implements fake news detection using machine learning and deep learning models. 
 
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/intro%20image.jpg?raw=true)
