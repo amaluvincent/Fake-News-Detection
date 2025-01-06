@@ -4,9 +4,10 @@
 
 ![image alt](https://github.com/amaluvincent/Fake-News-Detection/blob/main/intro%20image.jpg?raw=true)
 
-This project implements fake news detection using machine learning and deep learning models. 
-The dataset used is the ISOT Fake News Dataset, which contains labeled news articles categorized as "True" (0) or "Fake" (1). The goal is to accurately classify news articles and evaluate model performance using standard metrics.
+This project implements fake news detection using machine learning and deep learning models. The main aim is to identify the fraud news with high precision and recall.
+
 ## Dataset
+The dataset used is the ISOT Fake News Dataset, which contains labeled news articles categorized as "True" (0) or "Fake" (1). The goal is to accurately classify news articles and evaluate model performance using standard metrics.
 The ISOT Fake News Dataset, curated by Dr. Ahmed H. Ahmed at the University of Victoria, consists of two types of news articles:
 
 * True News: Obtained from Reuters.
